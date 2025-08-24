@@ -9,8 +9,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # OANDA API Settings
-OANDA_API_KEY = os.getenv("OANDA_API_KEY", "ff31f56eb7acf43152d82e3ebef4fa8e-273419eefa57d7d112727714c3833648")
-OANDA_ACCOUNT_ID = os.getenv("OANDA_ACCOUNT_ID", "101-001-26626441-001")
+OANDA_API_KEY = os.getenv("OANDA_API_KEY", "API_KEY")
+OANDA_ACCOUNT_ID = os.getenv("OANDA_ACCOUNT_ID", "ACCOUNT_ID")
 OANDA_ENVIRONMENT = os.getenv("OANDA_ENVIRONMENT", "practice")  # "practice" or "live"
 
 # Trading Parameters - Enhanced based on research
