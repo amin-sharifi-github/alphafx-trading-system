@@ -87,7 +87,6 @@ AlphaFX has been tested across multiple scenarios using the `strategy_tester.py`
 - Net Profit: $4,925
 - Return: +49.2%
 - Win Rate: 100%  
-- Profit Factor: 1000.0  
 - Sharpe Ratio: 4.58  
 - Signal Efficiency: 96.1%  
 
